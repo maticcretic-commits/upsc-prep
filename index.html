@@ -334,5 +334,40 @@ section{padding:66px 0;scroll-margin-top:76px}.section-head{display:flex;justify
   });
 })();
 </script>
+
+<section class="eph-comments" id="comments" aria-label="Comments and suggestions">
+  <h2>Comments &amp; suggestions</h2>
+  <p class="eph-comments-note">Spotted a mistake, an outdated date, or a missing topic? Leave a comment below &mdash; it helps improve this page for everyone.</p>
+  <div id="eph-giscus-wrap"><p class="eph-comments-note">Loading comments&hellip;</p></div>
+</section>
+<script>
+(function(){
+  var loaded=false;
+  function load(){
+    if(loaded) return; loaded=true;
+    var s=document.createElement('script');
+    s.src='https://giscus.app/client.js';
+    s.async=true; s.crossOrigin='anonymous';
+    s.setAttribute('data-repo','maticcretic-commits/upsc-prep');
+    s.setAttribute('data-repo-id','R_kgDOUrygBw');
+    s.setAttribute('data-category','Ideas');
+    s.setAttribute('data-category-id','DIC_kwDOUrygB84DGamr');
+    s.setAttribute('data-mapping','pathname');
+    s.setAttribute('data-strict','0');
+    s.setAttribute('data-reactions-enabled','1');
+    s.setAttribute('data-emit-metadata','0');
+    s.setAttribute('data-input-position','top');
+    s.setAttribute('data-theme','preferred_color_scheme');
+    s.setAttribute('data-lang','en');
+    var w=document.getElementById('eph-giscus-wrap');
+    w.innerHTML='';
+    w.appendChild(s);
+  }
+  var w=document.getElementById('eph-giscus-wrap');
+  if('IntersectionObserver' in window){
+    new IntersectionObserver(function(es,o){ if(es[0].isIntersecting){ load(); o.disconnect(); } },{rootMargin:'500px'}).observe(w);
+  } else { load(); }
+})();
+</script>
 </body>
 </html>
