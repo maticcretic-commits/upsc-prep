@@ -43,6 +43,7 @@ section{padding:66px 0;scroll-margin-top:76px}.section-head{display:flex;justify
 @media(max-width:620px){.shell{padding:0 16px}.top-in{height:58px}.hero h1{font-size:39px}.hero .lead{font-size:16px}.exam-grid,.book-grid,.material-grid,.resource-grid,.channel-grid,.road,.syllabus-grid,.sprint,.application-grid{grid-template-columns:1fr}.date-strip{grid-template-columns:1fr 1fr}.section-head{align-items:start}.section-no{font-size:42px}.paper-row{grid-template-columns:75px 1fr 55px;gap:8px;font-size:13px}.resource{grid-template-columns:42px 1fr}.resource .go{grid-column:2}.channel-lead,.channel-group-head{display:block}.channel-group-head p{margin-top:5px}.channel{grid-template-columns:42px 1fr}.channel-badge{grid-column:2;justify-self:start}.benchmark-row{grid-template-columns:1fr;gap:4px}.answer-frame{grid-template-columns:1fr}.ncert-row{grid-template-columns:64px 1fr}.search-btn{padding:8px 10px}.top-label span{display:none}section{padding:52px 0}}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
 </style>
+<link rel="stylesheet" href="assets/topics.css">
 </head>
 <body>
 <div class="top">
@@ -335,6 +336,18 @@ section{padding:66px 0;scroll-margin-top:76px}.section-head{display:flex;justify
 })();
 </script>
 
+<!-- ==================== #topics — topic library (study material) ==================== -->
+<section class="topic-lib-sec" id="topics" aria-label="Study material by topic">
+<div style="max-width:1180px;margin:0 auto;padding:0 20px">
+<p class="tl-kicker">Study material</p>
+<h2 class="tl-h2">Learn it topic by topic</h2>
+<p class="tl-sub">Every card below opens a full study page for that topic — a plain-language explanation, key facts and tables, diagrams, and quick-revision questions with answers. The practice papers at the end are full timed mocks with instant scores and complete answer keys. Everything runs in your browser; nothing is sent anywhere.</p>
+<div id="topic-lib"></div>
+</div>
+</section>
+<script src="assets/topics-upsc.js"></script>
+<script src="assets/topics-upsc-2.js"></script>
+<script src="assets/topics.js"></script>
 <section class="eph-comments" id="comments" aria-label="Comments and suggestions">
   <h2>Comments &amp; suggestions</h2>
   <p class="eph-comments-note">Spotted a mistake, an outdated date, or a missing topic? Leave a comment below &mdash; it helps improve this page for everyone.</p>
