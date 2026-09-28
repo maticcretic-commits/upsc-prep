@@ -2162,3 +2162,113 @@ window.EPH_TOPIC_DATA.topics.push(...
 ]
 );
 })();
+
+(function () {
+if(!window.EPH_TOPIC_DATA) return;
+window.EPH_TOPIC_DATA.topics.push(
+{
+ "blurb": "Eight original questions on the 22–28 September 2026 news cycle: cybercrime treaty, ECI SIR rules, LNG train, orbital computing, RBI Bulletin, Maharashtra drought, AMCA, and UPI MDR.",
+ "id": "upsc-refresh-2026-09-28",
+ "intro": "A refresh set on the last seven days' developments, written for UPSC Prelims 2026–27. Every item is original and tied to a dated news event — attempt them, then study the explanations, not just the answers.",
+ "questions": [
+  {
+   "answer": 3,
+   "expl": "All three are correct. The Convention — full title: 'Strengthening International Cooperation for Combating Certain Crimes Committed by Means of Information and Communications Technology Systems and for the Sharing of Evidence in Electronic Form of Serious Crimes' — was adopted on 24 December 2024, opened for signature on 25 October 2025, and had 95 signatories when India signed on 26 September 2026. Its nine chapters include human-rights safeguards and a 24x7 cooperation network for investigations, mutual legal assistance and extradition; it is also the first global treaty to specifically criminalise ICT-facilitated sexual violence against children.",
+   "options": [
+    "1 and 2 only",
+    "2 and 3 only",
+    "1 and 3 only",
+    "1, 2 and 3"
+   ],
+   "q": "With reference to the United Nations Convention against Cybercrime, consider the following statements:\n1. It was adopted by the UN General Assembly on 24 December 2024.\n2. It is the first comprehensive global treaty on cybercrime.\n3. India signed the Convention on 26 September 2026 on the sidelines of the 81st session of the UN General Assembly.\nWhich of the statements given above are correct?"
+  },
+  {
+   "answer": 0,
+   "expl": "Statements 1 and 2 are correct; 3 is wrong. The ECI said the Supreme Court upheld the Form 6 declaration for the SIR, and that field officers will have only role-based access to ECINET in line with their statutory powers — not unrestricted access. The expert committee reviewing ECINET's legal compliance follows reports of dissent within the Commission over SIR-related decisions.",
+   "options": [
+    "1 and 2 only",
+    "2 and 3 only",
+    "1 and 3 only",
+    "1, 2 and 3"
+   ],
+   "q": "With reference to the Election Commission of India's decisions on the Special Intensive Revision (SIR) of electoral rolls, announced on 26 September 2026, consider the following statements:\n1. The declaration attached to Form 6 will be required only during the SIR exercise; the earlier format will apply otherwise for fresh voter registration.\n2. A committee headed by a senior Deputy Election Commissioner, including an independent IIT/IIIT expert, will review ECINET's compliance with relevant laws and rules.\n3. Field officers will continue to have unrestricted access to the ECINET platform regardless of their statutory powers.\nWhich of the statements given above are correct?"
+  },
+  {
+   "answer": 0,
+   "expl": "Statements 1 and 2 are correct; 3 is wrong. After more than 2,000 km of field trials, LNG can replace only up to about 40 per cent of diesel — which is why the dual-fuel design matters, since operations continue even when LNG is unavailable. Each converted DPC carries an LNG tank of about 2,200 litres (950–1,000 kg of usable LNG), and Indian Railways estimates savings of about Rs 11.9 lakh per year per DPC alongside lower CO2, NOx and particulate-matter emissions.",
+   "options": [
+    "1 and 2 only",
+    "2 and 3 only",
+    "1 and 3 only",
+    "1, 2 and 3"
+   ],
+   "q": "With reference to India's first LNG-powered train, flagged off from Sabarmati on 27 September 2026, consider the following statements:\n1. It uses a dual-fuel system that allows the same engine to run on both LNG and diesel depending on fuel availability.\n2. Two Driving Power Cars, each of 1,400 HP, were converted to the LNG-diesel system.\n3. LNG is expected to replace up to 100 per cent of the diesel used by the engine.\nWhich of the statements given above are correct?"
+  },
+  {
+   "answer": 2,
+   "expl": "Correct: MOI-1A of Bengaluru startup TakeMe2Space is described as India's first orbital computing satellite — a sub-50 kg spacecraft carrying Nvidia Orin NX edge-computing processors. Customers upload containerised AI models to it, and it processes data as it passes over a target area, transmitting only the analysis to Earth rather than the full dataset — a model aimed at agriculture, mining, supply-chain and insurance users. Its 23 signed customers include US-based Little Place Labs; its predecessor MOI-1 was lost to a launch-vehicle third-stage failure.",
+   "options": [
+    "India's first crewed orbital mission module",
+    "A conventional communications satellite meant for rural broadband",
+    "An orbital edge-computing satellite that processes data in orbit instead of downlinking raw data to Earth",
+    "A space-based solar power demonstrator"
+   ],
+   "q": "The MOI-1A spacecraft, scheduled to fly aboard SpaceX's Transporter-18 rideshare mission on 1 October 2026, is best described as:"
+  },
+  {
+   "answer": 3,
+   "expl": "All three are correct. The Bulletin's 'State of the Economy' noted strong export growth narrowing the merchandise trade deficit, system liquidity surplus surging on FCNR(B) deposit flows, and bank deposits growing at their fastest pace in 15 years in August — while cautioning that re-escalating West Asia tensions had sharply raised crude oil prices, reigniting supply-chain and inflationary pressures.",
+   "options": [
+    "1 and 2 only",
+    "1 and 3 only",
+    "2 and 3 only",
+    "1, 2 and 3"
+   ],
+   "q": "According to the Reserve Bank of India's September 2026 Bulletin, consider the following statements:\n1. The Indian economy recorded robust growth of 7.8 per cent in Q1 of 2026-27.\n2. Headline CPI inflation inched up to 4.8 per cent in August 2026, driven by the food and beverages group along with a pickup in fuel and core components.\n3. India's foreign exchange reserves reached an all-time high.\nWhich of the statements given above are correct?"
+  },
+  {
+   "answer": 1,
+   "expl": "Correct: the GR was issued on the basis of the Agriculture Commissioner's report after prolonged rainfall deficits caused crop loss. Drought declaration is an executive decision of the state government. The declaration covered major parts of Vidarbha, Marathwada, North Maharashtra and the Pune division; the worst-hit districts were Yavatmal (16 taluks), Jalgaon (15), and Ahilyanagar/Nagpur/Amravati/Nanded (14 each).",
+   "options": [
+    "The India Drought Monitor report of IIT Gandhinagar",
+    "The report of the Agriculture Commissioner, following prolonged rainfall deficits that caused crop loss",
+    "A directive of the National Disaster Management Authority",
+    "The recommendation of the State Finance Commission"
+   ],
+   "q": "The Government of Maharashtra issued a government resolution on 26 September 2026 declaring drought in 265 of the State's 358 talukas. This declaration was based on:"
+  },
+  {
+   "answer": 0,
+   "expl": "Statements 1 and 2 are correct; 3 is wrong. At the NDTV Defence Summit 2026 (28 September 2026), Defence Secretary R.K. Singh explicitly said the government has not taken any decision on acquiring the Su-57 — though Russia has offered licensed production with deep tech transfer. India plans to bridge the stealth gap (China is believed to operate about 500 J-20/J-35s) by layering AI over the IAF's Integrated Air Command and Control System (IACCS), fused with army and air-defence networks, to improve 4.5-generation fighters like the Tejas until AMCA enters service.",
+   "options": [
+    "1 and 2 only",
+    "2 and 3 only",
+    "1 and 3 only",
+    "1, 2 and 3"
+   ],
+   "q": "With reference to India's fifth-generation fighter aircraft programme, consider the following statements:\n1. The Advanced Medium Combat Aircraft (AMCA) is India's indigenous fifth-generation fighter programme.\n2. The first AMCA prototype is expected to roll out in September 2028.\n3. India has decided to acquire the Russian Sukhoi-57 stealth fighter to bridge the stealth gap with China.\nWhich of the statements given above are correct?"
+  },
+  {
+   "answer": 3,
+   "expl": "All four are correct. On 28 September 2026 the Supreme Court refused to stay the levy — calling it 'less a legal and more a technical issue' — but issued notice to the Centre, RBI, NPCI and the UPI Steering Committee. Essential thin-margin sectors (railways, telecom, insurance, fuel, agricultural inputs) pay a flat Rs 5 per transaction above Rs 2,000, while payments into mutual funds, securities and stockbrokers attract 0.02 per cent, also capped at Rs 300.",
+   "options": [
+    "1, 2 and 3 only",
+    "2, 3 and 4 only",
+    "1, 3 and 4 only",
+    "1, 2, 3 and 4"
+   ],
+   "q": "With reference to the Merchant Discount Rate (MDR) on UPI payments announced in September 2026, consider the following statements:\n1. From 15 October 2026, a 0.4 per cent MDR applies to commercial person-to-merchant UPI transactions above Rs 2,000.\n2. The MDR is capped at Rs 300 for payments of Rs 75,000 and above.\n3. Person-to-person transfers of any size will continue to attract zero charges.\n4. RuPay debit card payments retain their no-charge protection without any monetary ceiling.\nWhich of the statements given above are correct?"
+  }
+ ],
+ "sections": [
+  {
+   "body": "<p>Attempt all eight in one timed sitting of about 15 minutes, then read every explanation. Note how each question links a fresh news event to a static GS concept — that is the UPSC Prelims pattern you should expect in 2027.</p>",
+   "h": "How to use this set"
+  }
+ ],
+ "subject": "Current Affairs",
+ "tag": "Prelims GS I · Practice bank",
+ "title": "Evening Refresh — 28 Sep 2026 (8 MCQs)"
+}
+);
+})();
