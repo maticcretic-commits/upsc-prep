@@ -421,7 +421,7 @@ window.EPH_TOPIC_DATA.topics.push(...
  },
  {
   "id": "upsc-bank-ca-2026",
-  "title": "Current Affairs 2026 — Wave 2 Bank (25 MCQs)",
+  "title": "Current Affairs 2026 — Wave 2 Bank (33 MCQs)",
   "subject": "Current Affairs",
   "tag": "Prelims GS I · Practice bank",
   "blurb": "September 2026 developments — monsoon, missions, summits and economic markers.",
@@ -707,6 +707,94 @@ window.EPH_TOPIC_DATA.topics.push(...
     ],
     "answer": 0,
     "expl": "Private consumption grew 7.7% in FY26, aided by the income-tax rebate for earnings up to ₹12 lakh (₹12.75 lakh for the salaried) and GST slab rationalisation and rate cuts. The Finance Minister noted that the next consumption phase would hinge on wage growth and upward mobility."
+   },
+   {
+    "q": "With reference to India's Right of Reply at the 81st session of the UN General Assembly (September 2026), consider the following statements:\n1. It was delivered by First Secretary Petal Gahlot of India's Permanent Mission to the UN.\n2. India rejected Pakistan's remarks on Jammu and Kashmir, reiterating that it is an integral and inalienable part of India.\n3. India warned that continued cross-border terrorism by Pakistan 'will have consequences'.\nWhich of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 3,
+    "expl": "India's Right of Reply came on 26 September 2026 after Pakistan's Prime Minister raised Kashmir and the 2025 clash at UNGA 81. First Secretary Petal Gahlot rejected Pakistan's characterisation, reiterated that J&K is 'an integral and inalienable part of India', and warned that continued cross-border terrorism would 'have consequences' — noting India's right to defend itself against terrorism."
+   },
+   {
+    "q": "With reference to the UN Security Council reform debate at the 81st UN General Assembly session, consider the following statements:\n1. Russia supports India's candidature for a permanent seat on the UN Security Council.\n2. The Security Council has 15 members — 5 permanent members and 10 elected for two-year terms.\n3. Russia opposed additional permanent seats for Western countries such as Germany and Japan.\nWhich of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 3,
+    "expl": "Addressing UNGA 81 on 26 September 2026, Lavrov said Russia supports India and Brazil for permanent UNSC seats, arguing for broader representation of Asia, Africa and Latin America, while opposing more Western permanent members, specifically Germany and Japan. The UNSC has 15 members: 5 permanent (China, France, Russia, UK, US) with veto power and 10 elected for two-year terms."
+   },
+   {
+    "q": "With reference to the Supreme Court's September 2026 ruling on pensionary benefits, consider the following statements:\n1. Service rendered on contract, ad-hoc, daily-wage or work-charge basis before regularisation must be counted as qualifying service for retiral and pensionary benefits.\n2. Under central government rules, roughly ten years of qualifying service are generally needed to draw a service pension at all.\nWhich of the statements given above are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 3,
+    "expl": "The Supreme Court held (reported 8 September 2026) that contract, ad-hoc, daily-wage or work-charge service before regularisation must count as qualifying service for retiral and pensionary benefits as a general rule. Qualifying service is the portion of service pension rules actually count; in central government service, roughly ten years of it are generally needed to draw a service pension at all."
+   },
+   {
+    "q": "With reference to the WWF Global Conservation Conference held in Jaipur in September 2026, consider the following statements:\n1. It was inaugurated by Union Environment Minister Bhupender Yadav, with the theme of conservation through coexistence and local community participation.\n2. The Minister said India's protected areas grew from around 750 to over 1,000 and Ramsar sites from 24 to 101 in the last decade.\n3. India's tiger reserves have grown from 47 to 58 over the same period.\nWhich of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 3,
+    "expl": "Inaugurated by Environment Minister Bhupender Yadav on 21 September 2026 in Jaipur with delegates from over 100 countries, the conference was told India's protected areas grew from around 750 to over 1,000 in a decade; Ramsar sites rose from 24 to 101; tiger reserves from 47 to 58; and elephant reserves from 30 to 33. However, a July 2026 NTCA roadmap flagged that nearly 60 per cent of tiger reserves lack adequate prey or habitat conditions."
+   },
+   {
+    "q": "Consider the following statements about the Incentive Scheme for Promotion of Domestic PNG Connections:\n1. It came into effect on 1 September 2026.\n2. City gas distribution companies receive an additional 200 Standard Cubic Metres of domestic APM gas for every eligible incremental domestic connection added beyond a minimum target.\n3. India had about 1.74 crore domestic PNG connections as of August 2026, with the CGD network covering 309 geographical areas.\nWhich of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 3,
+    "expl": "The Incentive Scheme for Promotion of Domestic PNG Connections took effect on 1 September 2026: CGD companies get an extra 200 SCM of cheaper domestic APM gas per eligible incremental domestic connection beyond a minimum target, replacing costlier imported LNG and cutting the payback period on a connection from around 10 years to nearly 3. India had about 1.74 crore domestic PNG connections as of 18 August 2026 across 309 geographical areas (PNGRB)."
+   },
+   {
+    "q": "Consider the following statements about the National Nutrition Month:\n1. The 9th Rashtriya Poshan Maah was launched on 9 September 2026 at Varanasi with the theme 'Hamari Anganwadi Hamari Jimmedari'.\n2. POSHAN Abhiyaan was launched in March 2018 as a multi-ministerial convergence mission on nutrition.\n3. POSHAN Abhiyaan was later integrated under Mission POSHAN 2.0, the unified National Nutrition Mission announced in the Union Budget 2021-22.\nWhich of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 3,
+    "expl": "The 9th Rashtriya Poshan Maah (National Nutrition Month) was launched on 9 September 2026 at the Rudraksh International Cooperation and Convention Centre, Varanasi, with the theme 'Hamari Anganwadi Hamari Jimmedari'. POSHAN Abhiyaan was launched in March 2018 as a multi-ministerial convergence mission; the Union Budget 2021-22 integrated it under Mission POSHAN 2.0, anchored by the Ministry of Women and Child Development."
+   },
+   {
+    "q": "With reference to the Atal Vayo Abhyudaya Yojana (AVYAY), consider the following statements:\n1. It is a Central Sector scheme of the Ministry of Social Justice and Empowerment for the health, shelter and financial security of senior citizens.\n2. It was revamped and renamed from the National Action Plan for Senior Citizens in April 2021.\n3. Elderline, its senior-citizen helpline, has received over 29 lakh calls including 8.67 lakh interventions.\nWhich of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 3,
+    "expl": "AVYAY is a Central Sector scheme of the Ministry of Social Justice and Empowerment, revamped and renamed from the National Action Plan for Senior Citizens in April 2021, targeting primarily indigent senior citizens, especially BPL or those with income up to Rs 15,000 per month. Its helpline Elderline has received over 29 lakh calls, including 8.67 lakh interventions for guidance, emotional support and field rescues (reported 27 September 2026)."
+   },
+   {
+    "q": "With reference to the Supreme Court's September 2026 ruling on railway accident compensation claims, following Union of India v Rina Devi (2018), which of the following statements is correct?",
+    "options": [
+     "The mere absence of a ticket conclusively disproves bona fide travel, so the claim must fail",
+     "The mere absence of a ticket does not defeat the compensation claim; the claimant discharges the initial burden by affidavit and the onus then shifts to the Railways",
+     "A compensation claim can succeed only if at least two eyewitnesses corroborate the travel",
+     "Delayed railway investigation reports automatically take precedence over the Tribunal's findings"
+    ],
+    "answer": 1,
+    "expl": "In its 25 September 2026 judgment the Supreme Court, following Union of India v Rina Devi (2018), held the mere absence of a ticket does not negate a bona fide passenger's compensation claim: the claimant discharges the initial burden by filing an affidavit of relevant facts and the onus shifts to the Railways. The Court disregarded the railway investigation report submitted seven months after the incident and directed disbursal within 30 days."
    }
   ]
  },
