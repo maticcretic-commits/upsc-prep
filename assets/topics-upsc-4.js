@@ -2269,6 +2269,110 @@ window.EPH_TOPIC_DATA.topics.push(
  "subject": "Current Affairs",
  "tag": "Prelims GS I · Practice bank",
  "title": "Evening Refresh — 28 Sep 2026 (8 MCQs)"
+},
+ {
+  "id": "upsc-bank-refresh-29sep2026",
+  "title": "Morning Refresh — 29 Sep 2026 (8 MCQs)",
+  "subject": "Current Affairs",
+  "tag": "Prelims GS I · Practice bank",
+  "blurb": "Fresh 25–29 September 2026 developments — RBI rate chatter, ESIC coverage, the digital tourism stack, the CHIME dark-energy probe, KAZIND-2026, the Cool Leaders awards and the AFSPA extension.",
+  "intro": "Eight questions on the freshest 25–29 September 2026 news — each tied to a static GS concept, exactly the Prelims 2027 pattern.",
+  "sections": [
+   {
+    "body": "<p>Attempt all eight in one timed sitting of about 15 minutes, then read every explanation. Note how each question links a fresh news event to a static GS concept — that is the UPSC Prelims pattern you should expect in 2027.</p>",
+    "h": "How to use this set"
+   }
+  ],
+  "questions": [
+   {
+    "q": "According to an EY report released on 28 September 2026, which of the following best describes its policy call for the RBI's October 2026 review?",
+    "options": [
+     "A 25-basis-point hike in the repo rate, currently at 5.25%",
+     "A 50-basis-point cut to support growth",
+     "A pause with a shift to a neutral stance",
+     "An off-cycle 100-basis-point hike to defend the rupee"
+    ],
+    "answer": 0,
+    "expl": "EY's 28 September 2026 report makes a case for a 25-bps hike at the October MPC, citing sticky food inflation and strong growth, with the repo at 5.25%. The MPC targets 4% CPI inflation within a ±2% band under the RBI Act, 1934."
+   },
+   {
+    "q": "HSBC Global Investment Research, in a note dated 28 September 2026, expects the RBI to raise the repo rate by a cumulative 50 basis points over FY27. Which of the following is cited as a key driver?",
+    "options": [
+     "Resurfacing inflation risks including imported inflation via a weaker rupee and firm crude",
+     "A collapse in bank credit growth",
+     "Deflation in wholesale prices",
+     "A statutory requirement to hold rates unchanged"
+    ],
+    "answer": 0,
+    "expl": "HSBC's call rests on resurfacing inflation risks — imported inflation through a weaker rupee and firm crude prices — even as growth stays resilient. Prelims trap: repo changes transmit through the LAF corridor, not through CRR directly."
+   },
+   {
+    "q": "On 28 September 2026, Union Labour and Employment Minister Mansukh Mandaviya said ESIC provides health security to 25 crore people. Under the ESI Act, 1948, which of the following is correct?",
+    "options": [
+     "ESI applies to factories/establishments with 10+ employees earning up to a notified wage ceiling, with employer-employee contributions",
+     "ESI covers only central government employees",
+     "ESI is a fully tax-funded universal scheme with no contributions",
+     "ESI benefits are limited to maternity relief only"
+    ],
+    "answer": 0,
+    "expl": "The ESI Act, 1948 covers factories and establishments employing 10 or more persons (20 in some states) drawing wages up to the notified ceiling (Rs 21,000/month, Rs 25,000 for persons with disabilities), funded by employer (3.25%) and employee (0.75%) contributions. Benefits include medical, sickness, maternity, disablement and dependants' benefits."
+   },
+   {
+    "q": "Consider the following statements about the National Digital Tourism Stack (NDTS): 1. It was launched on World Tourism Day 2026 by the Tourism Minister at Bharat Mandapam. 2. It is being built with ONDC and ICDIA support. 3. It targets 23,000 tourism experiences and homestays by end-2028. Which are correct?",
+    "options": [
+     "1, 2 and 3",
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only"
+    ],
+    "answer": 0,
+    "expl": "All three are correct. NDTS was launched 27 September 2026 (World Tourism Day) by Gajendra Shekhawat at Bharat Mandapam, developed with ONDC and the International Centre for DPI Innovation and Advancement (ICDIA), targeting 23,000 experiences and homestays by end-2028 with a pilot in January 2027."
+   },
+   {
+    "q": "The Canadian Hydrogen Intensity Mapping Experiment (CHIME), reported on 28 September 2026, maps the 21-cm emission line of neutral hydrogen. This technique is called intensity mapping because it",
+    "options": [
+     "measures the combined radio glow of many unresolved galaxies instead of cataloguing individual ones",
+     "photographs individual hydrogen atoms",
+     "uses X-ray intensity to find black holes",
+     "maps hydrogen only inside the Milky Way"
+    ],
+    "answer": 0,
+    "expl": "Intensity mapping measures the aggregate 21-cm emission from large cosmic volumes without resolving individual galaxies, tracing large-scale structure and the expansion history shaped by dark energy. The 21-cm line comes from the hyperfine spin-flip transition of neutral hydrogen."
+   },
+   {
+    "q": "Exercise KAZIND-2026, which began on 28 September 2026, is the bilateral military exercise between India and",
+    "options": [
+     "Kazakhstan",
+     "Kyrgyzstan",
+     "Uzbekistan",
+     "Mongolia"
+    ],
+    "answer": 0,
+    "expl": "KAZIND is the India-Kazakhstan joint exercise; the 2026 edition (28 Sep–11 Oct) is at Oskemen with a 60-member Indian contingent mainly from the Garhwal Rifles. Kyrgyzstan pairs with India in KHANJAR; Uzbekistan in DUSTLIK; Mongolia in NOMADIC ELEPHANT."
+   },
+   {
+    "q": "Which of the following statements about the Global Cooling Pledge Assembly is correct?",
+    "options": [
+     "It was held in Singapore on 15–18 September 2026, where the first Cool Leaders — Singapore, the UAE and Dong Mingzhu — were named",
+     "It was the COP30 climate summit held in Belem",
+     "It launched the International Solar Alliance",
+     "It adopted a binding treaty phasing out HFCs by 2030"
+    ],
+    "answer": 0,
+    "expl": "The Assembly ran 15–18 September 2026 in Singapore under UNEP's Cool Coalition; on 17 September the inaugural Cool Leaders (Singapore, UAE, Gree Electric's Dong Mingzhu) were named alongside a Heat Resilience Roadmap and Nature for Cooling Challenge. The Global Cooling Pledge itself dates to COP28 (2023); the HFC phase-down is the Kigali Amendment."
+   },
+   {
+    "q": "Consider the following statements: 1. The Home Ministry extended AFSPA for six months from 1 October 2026 in parts of Manipur, Nagaland and Arunachal Pradesh. 2. In Manipur, areas under 13 police stations remain excluded. 3. Section 3 of AFSPA empowers declaration of disturbed areas. Which are correct?",
+    "options": [
+     "1, 2 and 3",
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only"
+    ],
+    "answer": 0,
+    "expl": "All three are correct. The 25 September 2026 notifications extend AFSPA from 1 October 2026 for six months: most of Manipur (excluding 13 police stations in five valley districts), nine Nagaland districts plus 21 police-station areas, and Tirap/Changlang/Longding plus Namsai police-station areas in Arunachal Pradesh. Section 3 allows the Centre/state Governor/UT Administrator to declare disturbed areas."
+   }
+  ]
 }
 );
 })();
