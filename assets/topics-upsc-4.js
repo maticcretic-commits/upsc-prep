@@ -2373,6 +2373,110 @@ window.EPH_TOPIC_DATA.topics.push(
     "expl": "All three are correct. The 25 September 2026 notifications extend AFSPA from 1 October 2026 for six months: most of Manipur (excluding 13 police stations in five valley districts), nine Nagaland districts plus 21 police-station areas, and Tirap/Changlang/Longding plus Namsai police-station areas in Arunachal Pradesh. Section 3 allows the Centre/state Governor/UT Administrator to declare disturbed areas."
    }
   ]
+},
+{
+ "blurb": "Fresh 29 September 2026 developments — the Pashudhan Bima Portal, Essar's Iowa steel plan, the US specialty-drug tariff exemption, SEBI's Adani MPS clearance, Tamil Nadu's newborn gold-ring scheme, the bullet train's first steel bridge, exam-reforms consultations and the J&K statehood resolution.",
+ "id": "upsc-bank-refresh-29sep2026-evening",
+ "intro": "Eight questions on the freshest 29 September 2026 news — each tied to a static GS concept, exactly the Prelims 2027 pattern.",
+ "sections": [
+  {
+   "body": "<p>Attempt all eight in one timed sitting of about 15 minutes, then read every explanation. Note how each question links a fresh news event to a static GS concept — that is the UPSC Prelims pattern you should expect in 2027.</p>",
+   "h": "How to use this set"
+  }
+ ],
+ "subject": "Current Affairs",
+ "tag": "Prelims GS I · Practice bank",
+ "title": "Evening Refresh — 29 Sep 2026 (8 MCQs)",
+ "questions": [
+  {
+   "q": "With reference to the Pashudhan (Livestock) Insurance Portal launched in September 2026, consider the following statements:\n1. It was launched by the Union Minister for Fisheries, Animal Husbandry and Dairying.\n2. It provides a digital platform for policy issuance, claims settlement, monitoring and reporting.\nWhich of the statements given above is/are correct?",
+   "options": [
+    "1 only",
+    "2 only",
+    "Both 1 and 2",
+    "Neither 1 nor 2"
+   ],
+   "answer": 2,
+   "expl": "Both statements are correct. The Pashudhan (Livestock) Insurance Portal was launched on 28 September 2026 by Union Minister Rajiv Ranjan Singh (Fisheries, Animal Husbandry and Dairying) and digitises policy issuance, claims, monitoring and reporting. Remember: animal husbandry is a State subject under the Seventh Schedule."
+  },
+  {
+   "q": "The Essar Group announced in September 2026 a plan to invest in a steel plant in the US state of Iowa. What is the announced size of this investment?",
+   "options": [
+    "USD 1.5 billion",
+    "USD 5 billion",
+    "USD 10 billion",
+    "USD 15 billion"
+   ],
+   "answer": 3,
+   "expl": "Essar announced a USD 15-billion investment plan for a steel plant in Iowa, unveiled at the White House by CEO Prashant Ruia. The announcement came amid shifting US tariff and industrial policy — relevant for GS III (industrial policy) and India–US economic ties."
+  },
+  {
+   "q": "In September 2026, the United States exempted India and 19 other countries from a proposed 100% import tariff on:",
+   "options": [
+    "Steel and aluminium products",
+    "Specialty drugs",
+    "Electric vehicles",
+    "Solar modules"
+   ],
+   "answer": 1,
+   "expl": "The US exempted India and 19 other countries from its proposed 100% import tariff on specialty drugs, sparing Indian pharmaceutical exporters. Specialty drugs are high-cost medicines for complex conditions such as cancer and autoimmune disorders, distinct from generics — and the US is India's largest drug export market."
+  },
+  {
+   "q": "With reference to minimum public shareholding (MPS) norms in India, consider the following statements:\n1. Listed companies must maintain at least 25% public shareholding under SEBI rules.\n2. In September 2026, SEBI found no violations by Adani Group companies in its MPS probe.\nWhich of the statements given above is/are correct?",
+   "options": [
+    "1 only",
+    "2 only",
+    "Both 1 and 2",
+    "Neither 1 nor 2"
+   ],
+   "answer": 2,
+   "expl": "Both are correct. SEBI's MPS norms require listed companies to keep at least 25% of shareholding with the public, and in September 2026 SEBI closed its probe into alleged Adani MPS breaches with no violations found. SEBI is a statutory body under the SEBI Act, 1992."
+  },
+  {
+   "q": "The National High Speed Rail Corporation launched its first 100-metre steel bridge in September 2026. For which corridor was this bridge launched?",
+   "options": [
+    "Delhi–Varanasi High Speed Rail",
+    "Mumbai–Ahmedabad High Speed Rail",
+    "Chennai–Bengaluru–Mysuru High Speed Rail",
+    "Delhi–Ahmedabad High Speed Rail"
+   ],
+   "answer": 1,
+   "expl": "The ~1,405-tonne, 100-metre steel bridge was launched for the Mumbai–Ahmedabad High Speed Rail corridor in Maharashtra. Steel bridges are used where the viaduct must cross highways, railways or rivers without intermediate piers. The corridor uses Japanese Shinkansen technology with JICA loan assistance."
+  },
+  {
+   "q": "With reference to examination reforms in India, consider the following statements:\n1. A task force headed by Nandan Nilekani is reviewing the conduct of national-level examinations.\n2. In September 2026, the task force consulted K. Radhakrishnan, who headed the 2024 committee on the NEET-UG paper-leak controversy.\nWhich of the statements given above is/are correct?",
+   "options": [
+    "1 only",
+    "2 only",
+    "Both 1 and 2",
+    "Neither 1 nor 2"
+   ],
+   "answer": 2,
+   "expl": "Both are correct. Nandan Nilekani's task force on examination reforms is reviewing national-level examinations after the 2024 NEET-UG and UGC-NET irregularities, and it consulted former ISRO chairman K. Radhakrishnan, who headed the 2024 NEET-UG paper-leak committee. The National Testing Agency was set up in 2017 under the Ministry of Education."
+  },
+  {
+   "q": "In September 2026, the Jammu and Kashmir Assembly passed a resolution demanding:",
+   "options": [
+    "Restoration of Article 370",
+    "Restoration of statehood",
+    "Delimitation of Assembly constituencies",
+    "A separate High Court for Ladakh"
+   ],
+   "answer": 1,
+   "expl": "The J&K Assembly passed a resolution demanding restoration of statehood, with the National Conference-led government pressing the Centre on its post-2019 commitment. The Supreme Court, while upholding the abrogation of Article 370 in December 2023, directed restoration of statehood at the earliest. J&K was reorganised into two UTs under the J&K Reorganisation Act, 2019."
+  },
+  {
+   "q": "Tamil Nadu Chief Minister Vijay announced in September 2026 that the state government would gift what to every newborn child?",
+   "options": [
+    "A 1-gram gold ring",
+    "A fixed deposit of Rs 50,000",
+    "A health insurance cover of Rs 5 lakh",
+    "A free laptop on admission to Class 1"
+   ],
+   "answer": 0,
+   "expl": "CM Vijay announced a 1-gram gold ring for every newborn child in Tamil Nadu, a welfare measure aimed at new mothers and infants. Health and family welfare schemes are largely in the States' domain — this recalls Tamil Nadu's earlier marriage-assistance schemes involving gold."
+  }
+ ]
 }
 );
 })();
